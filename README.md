@@ -1,6 +1,8 @@
 XML2JSON
 ========
 
+[![Build Status](https://travis-ci.org/belbis/xml2json.svg?branch=master)](https://travis-ci.org/belbis/xml2json)
+
 Python script converts XML to JSON or the other way around
 
 Usage
