@@ -7,5 +7,6 @@ python:
   - "3.4"
 install: 
   - "python setup.py"
+  - "pip install https://github.com/belbis/xml2json/zipball/master"
 script: 
   - "python test/test_xml2json.py"
