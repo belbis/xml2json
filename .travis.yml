@@ -6,6 +6,6 @@ python:
   - "3.3"
   - "3.4"
 install: 
-  - "python setup.py"
+  - "python setup.py install"
 script: 
   - "python test/test_xml2json.py"
